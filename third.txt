@@ -1,2 +1,5 @@
 this is change made in third.txt thuis
+<<<<<<< HEAD
 this is master branch
+=======
+>>>>>>> activity
